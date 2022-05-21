@@ -2,7 +2,7 @@
 
 This app was created using Flutter
 
-<h2>Screenshot</h2>
+<h2>Screenshots</h2>
 
 <div>
 <img src="lib/screenshot.png" width=256 style = "display:inline-block" />
