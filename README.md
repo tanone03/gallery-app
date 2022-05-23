@@ -1,6 +1,7 @@
 <h1>Gallery app</h1>
 
 This app was created using Flutter
+Pictures were loaded from Unsplash API
 
 <h2>Screenshots</h2>
 
